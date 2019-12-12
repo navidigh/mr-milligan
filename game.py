@@ -18,4 +18,4 @@ while guesses < 10:
 
 
     if guesses == 10:
-        print("Sorry, the number was actually" + str(number))
+        print("Sorry, the number was actually " + str(number))
